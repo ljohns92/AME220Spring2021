@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+h2 {
+  color: DarkRed;
+  margin-left: 0px;
+}
+</style>
+<title>Assignment 2</title>
+</head>
+<body>
+
+<h1>Luc Johnson </h1>
+<img src="Lucphoto.jfif" alt="Luc" width="500" height="333"><br>
+<a href="mailto: ljohns92@asu.edu">ljohns92@asu.edu</a>
+<br>480-599-7111
+<br>1409 E Downing st
+<br>Mesa AZ, 85203
+
+
+<h2>Objective</h2>
+<p>My objective is to get a job in the financial industry.</p>
+
+<h3>Education</h3>
+<style>
+h3 {
+  border: 2px solid black;
+  outline-style: solid;
+  outline-color: slateblue;
+  color: #ab1789;
+}
+</style>
+<table style="width:100%">
+  <tr>
+    <th>School</th>
+    <th>Years</th>
+  </tr>
+  <tr>
+    <td>Arizona State University</td>
+    <td>2019-Present</td>
+  </tr>
+  <tr>
+    <td>Mountain View High School</td>
+    <td>2015-2019</td>
+  </tr>
+</table>
+
+<h4>Experience</h4>
+<style>
+h4 {
+ color: rgb(255,156,136);
+</style>
+<p>Summer of 2020 I worked at an Amazon warehouse moving packages fromm one destination to another in an orderly fashion. I was resposible for the care of the packages and keeping things running smoothly. </p>
+<p>2017 - Present. I Packed jewelry for a small independent Amazon store. My responsibilites were to ensure the quality of the products and packaging. I also had to have timely delivery. <p>
+
+<h5>References</h5>
+<style>
+h5	{
+	background-color: lightblue;
+</style>
+<ul>
+  <li>Lane John - lanelucy@cox.net</li>
+  <li>Harold Kunkel - gorrilla1942@cox.net</li>
+  <li>Bill Freeman - hippotrot@gmail.com</li>
+</ul>
+
+
+</body>
+</html>
